@@ -1,2 +1,5 @@
 # hello-world
-Playing around with just another repo
+
+Hello there. This is a README file that provides basic information about this project.
+
+Thank you!
